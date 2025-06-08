@@ -54,7 +54,7 @@ Feel free to submit pull requests to improve the project!
 This project is licensed under the **MIT License**.
 
 ---
-**Author:** Harsha Vardhan Reddy
+**Author:** Harsha Vardhan
 **GitHub:** [z3pt0n](https://github.com/z3pt0n)
 
 
