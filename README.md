@@ -17,8 +17,8 @@ This project is a **QR Code Generator and Scanner** built using **OpenCV** and *
 ## 📥 Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/kalyangvk03/QR-Code-Generator-and-scanner.git
-   cd QR-Code-Generator-and-scanner
+   git clone https://github.com/z3pt0n/QR_Code_Generator_Scanner.git
+   cd QR_Code_Generator_Scanner
    ```
 2. **Install Dependencies**
    ```sh
