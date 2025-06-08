@@ -1,5 +1,9 @@
 # QR Code Generator and Scanner
 
+## 🌐 Website Link
+[Click here](https://qr-scanner-and-generator-git-main-z3pt0ns-projects.vercel.app/) to visit our website!
+
+
 ## 📌 Introduction
 This project is a **QR Code Generator and Scanner** built using **OpenCV** and **OpenGL**. It allows users to generate QR codes from text and scan QR codes from images or real-time camera input.
 
@@ -33,15 +37,6 @@ This project is a **QR Code Generator and Scanner** built using **OpenCV** and *
 ## 📸 Usage
 - **Generate QR Code:** Enter text input, and the program generates a QR code image.
 - **Scan QR Code:** Use the webcam or upload an image containing a QR code to extract its data.
-
-## 📌 Screenshots
-## Generate QR Code
-![Screenshot 2025-03-16 122737](https://github.com/user-attachments/assets/c40aaf6d-b279-4121-b00d-9449d7cd8083)
-![Screenshot 2025-03-16 122843](https://github.com/user-attachments/assets/75d6b868-5e71-4acf-8047-63df7cebd5f7)
-
-
-## Scan Generated Code in WebCam
-![Screenshot 2025-03-16 123308](https://github.com/user-attachments/assets/b3481693-f33c-42a6-b4ea-d84bbce25381)
 
 
 
